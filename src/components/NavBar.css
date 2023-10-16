@@ -1,0 +1,106 @@
+#overAll {
+
+}
+#title {
+  font-size: 40px;
+}
+#add_btn {
+  font-size: 20px;
+}
+#nav_titles {
+  margin-top: 1vh;
+}
+#NavList {
+  font-size: 19px;
+} 
+#ttl{
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* #ttl:before {
+  content: "";
+  position: absolute;
+  bottom: 20px;
+  height: 6px;
+  width: 5%;
+  background: #fff;
+  border-radius: 5vh;
+  transform: scaleX(0);
+  transition: transform 0.2s linear;
+}
+#ttl:hover::before{
+  transform: scaleX(1);
+} */
+#nav_img{
+  margin-left: 300%;
+}
+@media all and (max-width: 1500px) {
+  #NavList {
+    font-size: 27px;
+  } 
+  #title {
+    font-size: 40px;
+  }
+  #nav_img{
+    margin-left: 200%;
+  }
+}
+
+@media all and (max-width: 1024px) {
+  #NavList {
+    font-size: 16px;
+  } 
+  #title {
+    font-size: 35px;
+  }
+  #nav_img{
+    margin-left: -150%;
+  }
+}
+
+@media all and (max-width: 950px) {
+  #NavList {
+    font-size: 5px;
+  } 
+  #title {
+    font-size: 33px;
+  }
+}
+
+@media all and (max-width: 786px) {
+  #NavList {
+    font-size: 20px;
+  } 
+  #title {
+    font-size: 30px;
+  }
+  #toggle {
+    font-size: 15px;
+  }
+}
+
+@media all and (max-width: 425px) {
+  #NavList {
+    font-size: 15px;
+  } 
+  #title {
+    font-size: 28px;
+  }
+  #toggle {
+    font-size: 10px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  #NavList {
+    font-size: 10px;
+  } 
+  #title {
+    font-size: 18px;
+  }
+  #toggle {
+    font-size: 10px;
+  }
+}

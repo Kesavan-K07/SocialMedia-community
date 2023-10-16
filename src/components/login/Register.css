@@ -1,0 +1,15 @@
+.box{
+    height:100vh;
+}
+
+.cont{
+    height:80vh;
+    
+    border-radius: 2.5%;
+}
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>  >>> Main nav >>> >>>>>>>>>>>>>>>>>>>>>>>> */
+.bottom{
+    border-bottom:solid 2px ;
+}

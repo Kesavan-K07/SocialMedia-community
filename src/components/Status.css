@@ -1,0 +1,52 @@
+#status_icon {
+  width: 14vh;
+  height: 14vh;
+  border-radius: 50%;
+  border: solid 4px #fcb713;
+}
+img:hover {
+  width: 26vh;
+  height: 26vh;
+}
+
+@media all and (max-width: 1500px) {
+  #status_icon {
+    width: 14vh;
+    height: 14vh;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media all and (max-width: 1024px) {
+  #status_icon {
+    width: 13vh;
+    height: 13vh;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media all and (max-width: 950px) {
+  #status_icon {
+    width: 13vh;
+    height: 13vh;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media all and (max-width: 786px) {
+  #status_icon {
+    width: 11vh;
+    height: 11vh;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media all and (max-width: 450px) {
+  #status_icon {
+    width: 6.5vh;
+    height: 6.5vh;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. */
+@media all and (max-width: 320px) {
+  #status_icon {
+    width: 5vh;
+    height: 5vh;
+  }
+}

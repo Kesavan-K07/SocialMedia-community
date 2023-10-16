@@ -1,0 +1,45 @@
+#pannel{
+  height: 55vh;
+  width: 150vh;
+}
+@media all and (max-width: 1500px) {
+  #pannel{
+    height: 54vh;
+    width: 90%;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media all and (max-width: 1024px) {
+  #pannel{
+    height: 50vh;
+    width: 90%;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media all and (max-width: 950px) {
+  #pannel{
+    height: 47vh;
+    width: 90%;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media all and (max-width: 786px) {
+  #pannel{
+    height: 45vh;
+    width: 90%;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media all and (max-width: 450px) {
+  #pannel{
+    height: 25vh;
+    width: 90%;
+  }
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. */
+@media all and (max-width: 320px) {
+  #pannel{
+    height: 25vh;
+    width: 90%;
+  }
+}

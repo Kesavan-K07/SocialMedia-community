@@ -1,0 +1,16 @@
+#img {
+    width: 7vh;
+    height: 7vh;
+    border-radius: 1;
+}
+#itpic{
+    height: 35%;
+}
+@media all and (max-width: 768px) {
+   #left{
+    display: none;
+   } 
+   #right{
+    display: none;
+   }
+}
