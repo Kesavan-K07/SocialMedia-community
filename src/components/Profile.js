@@ -348,7 +348,7 @@ const Profile = ( showadd) => {
               <Card.Text id='content' className=''>
                 <span className='text-primary mx-1'></span> Some quick example text.
               </Card.Text>
-              <Card.Img id='cardImg' variant="top" src="https://www.tatvasoft.com/blog/wp-content/uploads/2021/03/React-Best-Practices-and-Security-2.jpg"/>
+              <Card.Img id='cardImg' variant="top" src="https://www.tatvasoft.com/blog/wp-content/uploads/2021/03/React-Best-Practices-and-Security-2.jpg"e/>
               <Card.Body>
                 <div id='reactions' className=''>
                   <div className='rections_left'>
